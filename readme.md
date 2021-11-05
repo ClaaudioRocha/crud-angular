@@ -1,1 +1,1 @@
-Um CRUD (Create, Read, Update & Delete) usando Angular, TS, JS, HTML5, CSS3 e API Rest.
+Um CRUD (Create, Read, Update & Delete) usando Angular, TS, JS, HTML5, CSS3.
